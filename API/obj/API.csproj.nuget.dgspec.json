@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj": {}
+    "c:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj": {
+    "c:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\luan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
