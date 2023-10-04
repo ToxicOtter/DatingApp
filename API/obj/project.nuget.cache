@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U+AzOiXBwe0/KleF2LjFvRaaaxdq3cslXOFwQiPR8CxKjJngW5CTn6PUpi1I5XnAxtUFqB6eex/rudA/eWHaWQ==",
+  "dgSpecHash": "0aS1WQfIoD/JFzfIYuVSpnEV7vujbSxyz72gycU+EUSCA8fHI3mlkrEALmN0i3iOyy3jK3h3f8JgvxQgyQnl1Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\luan_\\Documents\\Luan\\Programação\\ASPNET\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luan_\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\luan_\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
