@@ -15,6 +15,7 @@ namespace API.Extensions
             }); // Add DbContext as a service
             services.AddCors(); //add CORS
             services.AddScoped<ITokenService, TokenService>();
+            services.AddScoped<IUserRespository, IUserRespository>();
 
             return services;
         }
