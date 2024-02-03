@@ -16,6 +16,7 @@ namespace API.Extensions
             services.AddCors(); //add CORS
             services.AddScoped<ITokenService, TokenService>();
             services.AddScoped<IUserRespository, UserRepository>();
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             return services;
         }
