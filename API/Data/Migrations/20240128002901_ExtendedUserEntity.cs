@@ -63,6 +63,12 @@ namespace API.Data.Migrations
                 defaultValue: new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified));
 
             migrationBuilder.AddColumn<string>(
+                name: "Introduction",
+                table: "Users",
+                type: "TEXT",
+                nullable: true);
+
+            migrationBuilder.AddColumn<string>(
                 name: "LookingFor",
                 table: "Users",
                 type: "TEXT",
@@ -136,6 +142,10 @@ namespace API.Data.Migrations
 
             migrationBuilder.DropColumn(
                 name: "LookingFor",
+                table: "Users");
+
+            migrationBuilder.DropColumn(
+                name: "Introduction",
                 table: "Users");
         }
     }
